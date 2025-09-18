@@ -1,0 +1,1 @@
+alter table m_sys_user add GOOGLE_SECRET varchar(255);
