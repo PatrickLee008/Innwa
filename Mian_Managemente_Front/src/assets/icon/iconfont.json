@@ -1,0 +1,114 @@
+{
+  "id": "2279148",
+  "name": "tesa",
+  "font_family": "iconfont",
+  "css_prefix_text": "el-icon-third",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "36566",
+      "name": "播放",
+      "font_class": "bofang",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "36567",
+      "name": "暂停",
+      "font_class": "zanting",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "444577",
+      "name": "暂停",
+      "font_class": "zanting1",
+      "unicode": "e677",
+      "unicode_decimal": 58999
+    },
+    {
+      "icon_id": "688140",
+      "name": "暂停",
+      "font_class": "zanting2",
+      "unicode": "e7af",
+      "unicode_decimal": 59311
+    },
+    {
+      "icon_id": "807271",
+      "name": "播放",
+      "font_class": "bofang1",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "1040565",
+      "name": "暂停",
+      "font_class": "zanting3",
+      "unicode": "e76a",
+      "unicode_decimal": 59242
+    },
+    {
+      "icon_id": "1447738",
+      "name": "播放",
+      "font_class": "bofang2",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "2118485",
+      "name": "播放",
+      "font_class": "bofang3",
+      "unicode": "e654",
+      "unicode_decimal": 58964
+    },
+    {
+      "icon_id": "2551899",
+      "name": "播放",
+      "font_class": "bofang4",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "3217845",
+      "name": "播放",
+      "font_class": "icon-",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "4956289",
+      "name": "暂停",
+      "font_class": "zanting4",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    },
+    {
+      "icon_id": "10143249",
+      "name": "暂停",
+      "font_class": "zanting5",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "11808714",
+      "name": "播放",
+      "font_class": "icon_play",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "12753905",
+      "name": "暂停",
+      "font_class": "zanting_huaban",
+      "unicode": "e637",
+      "unicode_decimal": 58935
+    },
+    {
+      "icon_id": "14101662",
+      "name": "播放",
+      "font_class": "zanting6",
+      "unicode": "e624",
+      "unicode_decimal": 58916
+    }
+  ]
+}
